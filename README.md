@@ -1,4 +1,4 @@
-Here is a **professional, client-ready, polished README** for your repository
+
 **Ai_Powered_Pneumonia_diagnosis**.
 Just copy-paste into your `README.md` (or tell me to push directly).
 
